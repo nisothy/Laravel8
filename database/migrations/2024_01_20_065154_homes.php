@@ -31,3 +31,5 @@ class Homes extends Migration
         Schema::dropIfExists('home_table');
     }
 }
+
+
